@@ -11,7 +11,7 @@ img{
 .hero>div{
 	padding:50px 30px;
 	display:flex;	
-	align-item:center;
+	text-align:center;
 	flex-direction:column;
 	
 }
