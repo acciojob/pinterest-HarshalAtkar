@@ -6,7 +6,7 @@
 }
 img{
 	width:60%;
-		cover;
+		object-fit:cover;
 }
 .hero>div{
 	padding:50px 30px;
